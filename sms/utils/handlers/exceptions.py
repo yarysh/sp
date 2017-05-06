@@ -1,0 +1,2 @@
+class SMSHandlerError(Exception):
+    pass
